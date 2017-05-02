@@ -1,0 +1,26 @@
+<meta>
+	<info author="Haze" desc="dxGui" name="dxGui_lib" version="0.2" />
+	<script src="lib_c.lua" type="client" cache ="false"/>
+	<file src="Raleway-Bold.ttf"/>
+	<file src="Raleway-Light.ttf"/>
+	<file src="Raleway-Medium.ttf"/>
+	<export function="dxCreateButton" type="client" />
+	<export function="dxSetButtonText" type="client" />
+	<export function="dxButtonSetVisible" type="client" />
+	<export function="dxCreateWindow" type="client" />
+	<export function="dxSetWindowText" type="client" />
+	<export function="dxWindowSetVisible" type="client" />
+	<export function="dxCreateEdit" type="client" />
+	<export function="dxEditGetText" type="client" />
+	<export function="dxEditSetVisible" type="client" />
+	<export function="dxCreateCheckbox" type="client" />
+	<export function="dxCheckboxGetClicked" type="client" />
+	<export function="dxCheckboxSetVisible" type="client" />
+	<export function="dxCreateCombobox" type="client" />
+	<export function="dxComboboxAddItem" type="client" />
+	<export function="dxComboboxSetVisible" type="client" />
+	<export function="dxComboboxGetItemText" type="client" />
+	<export function="dxCreateScroll" type="client" />
+	<export function="dxScrollSetVisible" type="client" />
+	<export function="dxScrollGetStatus" type="client" />
+</meta>
