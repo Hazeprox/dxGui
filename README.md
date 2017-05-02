@@ -1,8 +1,8 @@
-# dxGui - Editbox, Window, Buttoon, Combobox and bugged scroll
+# dxGui - Editbox, Window, Buttoon, Combobox
 # Contact
 dxGui v0.2 by Haze <zmuda20011@gmail.com>
 # Button Functions
-dxCreateButton
+dxCreateButton	
 dxSetButtonText
 dxButtonSetVisible
 # Window Functions
